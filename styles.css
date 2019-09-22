@@ -1,0 +1,75 @@
+body {
+    margin: 0 8px;
+}
+.container {
+    margin: 0rem 10%;
+    background-color: whitesmoke;
+    padding: 1px 1px 1rem 1px;
+}
+h1 {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+span {
+    background-color: tomato;
+    color: whitesmoke;
+ }
+#div1, #div2, #div3 {
+    background-color: tomato;
+    height: 28%;
+    margin: 1rem 1rem 1rem 1rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.div4 {
+        background-image: url(/Users/amolsaxena/Desktop/Fullstack/1909-FLEX/project/the-acme-directory/DirectoryProjectImage.jpg);   
+        width: 130px;
+        height: 130px;
+        border-radius: 65px;
+        background-position: top 20% left 7%; 
+        margin-left: 44%;
+        margin-top: 10px;
+        /* background-position: top 30% right 20%;for Larry */
+        /* background-position: top 40% left 40%; for Curly */
+        /* background-position: top 20% left 7%; for Moe */
+}
+.div5 {
+    background-image: url(/Users/amolsaxena/Desktop/Fullstack/1909-FLEX/project/the-acme-directory/DirectoryProjectImage.jpg);   
+    width: 130px;
+    height: 130px;
+    border-radius: 65px;
+    margin-left: 44%;
+    margin-top: 10px;
+    background-position: top 30% right 20%;
+    /* background-position: top 20% left 7%; for Moe */
+}
+.div6 {
+    background-image: url(/Users/amolsaxena/Desktop/Fullstack/1909-FLEX/project/the-acme-directory/DirectoryProjectImage.jpg);   
+    width: 130px;
+    height: 130px;
+    border-radius: 65px;        
+    background-position: top 40% left 40%;
+    margin-left: 44%;
+    margin-top: 10px;
+    /* background-position: top 30% right 20%;for Larry */
+
+
+}
+li {
+    padding: 0;
+    list-style-type: none;
+    align-content: center;
+}
+.bold {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.nonBold {
+    text-align: center;
+    font-family: sans-serif;
+}
